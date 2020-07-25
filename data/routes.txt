@@ -1,0 +1,12 @@
+{"id":"wtp3sr3e","name":"almaty-novosibirsk","created_at":"2020-07-26 01:50:18 +0600"}
+{"id":"hcvm6qhc","name":"novosibirsk-astana","created_at":"2020-07-26 01:50:24 +0600"}
+{"id":"u82or2cq","name":"oskemen-astana","created_at":"2020-07-26 01:50:29 +0600"}
+{"id":"kkr38jxf","name":"astana-almaty","created_at":"2020-07-26 01:50:38 +0600"}
+{"id":"e1sa5sld","name":"milan-milan","created_at":"2020-07-26 02:01:00 +0600"}
+{"id":"rwfudvj7","name":"milan-milan","created_at":"2020-07-26 02:01:01 +0600"}
+{"id":"v8yhnjmd","name":"milan-milan","created_at":"2020-07-26 02:01:04 +0600"}
+{"id":"shxa5bbi","name":"astana-minsk","created_at":"2020-07-26 02:17:10 +0600"}
+{"id":"aheok07o","name":"minsk-astana","created_at":"2020-07-26 02:17:14 +0600"}
+{"id":"qf0pn235","name":"astana-paris","created_at":"2020-07-26 02:20:53 +0600"}
+{"id":"kfdcva8b","name":"aktobe-uralsk","created_at":"2020-07-26 02:30:31 +0600"}
+{"id":"q6sbu24","name":"uralsk-aktobe","created_at":"2020-07-26 02:30:38 +0600"}

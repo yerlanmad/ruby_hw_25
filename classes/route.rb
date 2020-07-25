@@ -13,6 +13,8 @@ class Route
   attr_reader :stations, :name
 
   def initialize(first_station, last_station)
+    return unless first_station.is_a?(Station) && last_station.is_a?(Station)
+
     @stations = [first_station, last_station]
     @name = "#{first_station.name}_#{last_station.name}"
     validate
@@ -41,6 +43,7 @@ class Route
   def validate
     super(stations)
     super(name)
+    raise AttributePresentError if stations.first == stations.last
   rescue AttributeSizeError, AttributePresentError => e
     write_error(e.message)
     self.valid = false

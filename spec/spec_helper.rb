@@ -15,7 +15,7 @@
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 
 Dir['./modules/*.rb'].each { |file| require file }
-Dir['./*.rb'].each { |file| require file }
+Dir['./classes/*.rb'].each { |file| require file }
 
 
 RSpec.configure do |config|
